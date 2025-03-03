@@ -1,10 +1,10 @@
 streamlit
+aif360[all]
 numpy
 pandas
 scikit-learn
-openai
-nltk
-textblob
 matplotlib
+textblob
+nltk
 jsonschema
 pillow
