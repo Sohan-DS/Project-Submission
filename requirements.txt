@@ -10,3 +10,4 @@ pillow
 aif360==0.5.0
 scipy
 torch
+python3-tk
